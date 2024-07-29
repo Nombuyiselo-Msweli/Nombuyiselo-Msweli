@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Web developer & Designer
 --------------------------------
 
-I have a passion for beautiful functional design and helping 'the little guy', the business owners overwhelmed by not only competition but how to show up and stand out online . I believe that every business has the capability to attract their dream customers using effective web design. I dived into the world of professional web development after spending 3 years studying information systems while working freelance as a social media manager and strategist for businesses all over South Africa. I wanted to make a bigger impact in the businesses of my clients and others like them, so I took the plunge into learning code and haven't looked back since. As I was working with my clients I realized that their main struggle was figuring out and simplifying their brand identity online. My aim is to help people like them build brands online that are strategic, beautiful, distinct, and resonate with their dream customer. Coupled with websites that are functional and effective in moving the needle forward for their business.
+![Banner](images/github-profile-banner.png) 
+
+I have a passion for beautiful functional design and helping 'the little guy', the business owners overwhelmed by not only competition but how to show up and stand out online . I believe that every business has the capability to attract their dream customers using effective web design. 
+
+I dived into the world of professional web development after spending 3 years studying information systems while working freelance as a social media manager and strategist for businesses all over South Africa. I wanted to make a bigger impact in the businesses of my clients and others like them, so I took the plunge into learning code and haven't looked back since. 
+
+As I was working with my clients I realized that their main struggle was figuring out and simplifying their brand identity online. My aim is to help people like them build brands online that are strategic, beautiful, distinct, and resonate with their dream customer. Coupled with websites that are functional and effective in moving the needle forward for their business.
 
 * 🌍  I'm based in Durban, South Africa
 * ✉️  You can contact me at [mswelinombuyiselo@gmail.com](mailto:mswelinombuyiselo@gmail.com)
